@@ -1,4 +1,4 @@
-# Test.Xo-Analytics
+# Xo-Analytics
 Вывести отчёт по заявкам за произвольный период в днях (от 1 дня и более)
 
 Данные нужно забрать с помощью Google Sheets API из документа [https://docs.google.com/spreadsheets/d/1Ycg7zTxds9DZnDvTrFcyNNKuTUxg6Yy6WF0a8Wc02WQ](https://docs.google.com/spreadsheets/d/1Ycg7zTxds9DZnDvTrFcyNNKuTUxg6Yy6WF0a8Wc02WQ)
